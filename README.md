@@ -10,8 +10,7 @@
    - [ADC Limitations](#adc-limitations-and-latency)  
 5. [PWM + ADC Synchronization](#setting-up-adc-readings-with-pwm)  
 6. [Overclocking](#overclocking-the-rp2350)  
-7. [Interrupt Synchronization](#synchronization-interruptions-between-adc-and-pwm)  
-8. [Results](#results)  
+7. [Interrupt Synchronization PWM + ADC](#synchronization-interruptions-between-adc-and-pwm)  
 
 ## Objectives
 
